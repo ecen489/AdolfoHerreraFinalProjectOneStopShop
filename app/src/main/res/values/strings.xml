@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">giftest2</string>
+
+    <string-array name="sneakers">
+        <item>Jordan 1 - Off White</item>
+        <item>Yeezy V2 Breds</item>
+        <item>Yeezy V2 Creams</item>
+        <item>Yeezy V2 Oreo</item>
+        <item>Yeezy V2 Beluga 2.0</item>
+        <item>Nike Prestos</item>
+        <item>Adidas NMDs</item>
+        <item>Adidas Ultraboosts</item>
+    </string-array>
+
+    <string-array name="Clothes">
+        <item>Supreme Box-Logo Pink</item>
+        <item>Supreme Box-Logo Red</item>
+        <item>Supreme Box-Logo Brown</item>
+        <item>Supreme Box-Logo Black</item>
+        <item>Supreme Box-Logo White</item>
+        <item>Supreme Box-Logo Yellow</item>
+    </string-array>
+
+    <string-array name="Extras">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+    </string-array>
+</resources>
